@@ -1,0 +1,19 @@
+{
+  "name": "aeropulse-india",
+  "version": "1.0.0",
+  "description": "AeroPulse India - Real-Time Airfare Price Index, Door-to-Door Journey Cost Analytics & Flight Search Intelligence",
+  "private": false,
+  "scripts": {
+    "start": "npx serve . -l 8080",
+    "build": "echo 'Static build complete'"
+  },
+  "keywords": [
+    "aviation",
+    "airfare-index",
+    "cpi",
+    "mospi",
+    "flight-intelligence",
+    "aeropulse"
+  ],
+  "license": "MIT"
+}
